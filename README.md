@@ -6,7 +6,7 @@ In this quick tutorial, I am going to show you how to use the Pathlib module in 
 
 ## Video Tutorial
 
-[![YouTube Video](https://img.youtube.com/vi/JoonRjMsSdY/0.jpg)](https://youtu.be/JoonRjMsSdY)
+[![YouTube Video](https://img.youtube.com/vi/iqZ2V8qTYq8/0.jpg)](https://youtu.be/iqZ2V8qTYq8)
 
 ## FREE Pathlib Cheat Sheet
 Get it here: https://pythonandvba.com/pathlib-cheat-sheet
